@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 👨‍💻 Yash Patel  
 
 🚀 First-year Computer Engineering Student @ LD College of Engineering  
-💻 Currently learning **DSA (Striver’s Sheet + Apna College Playlist)** & **Full-Stack Development (Sigma Web Dev)**  
+💻 Currently learning **DSA** & **Full-Stack Development**  
 🎥 Member of Innovator Club (P&VE Team)  
 🌌 Passionate about coding, editing, and galaxies  
 
