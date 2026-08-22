@@ -125,14 +125,6 @@ A responsive Netflix-inspired interface built from scratch.
 
 <div align="center">
 
-<a href="https://github.com/Yashu444">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashu444&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Yash's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Yashu444">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu444&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Yash's Top Languages"/>
-</a>
-
 </div>
 
 <br/>
@@ -168,16 +160,6 @@ A responsive Netflix-inspired interface built from scratch.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashu444/Yashu444/output/github-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Yashu444/Yashu444/output/github-snake.svg">
 </picture>
-
-</div>
-
----
-
-## 🏆 GitHub Journey
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yashu444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
