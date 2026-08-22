@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 # 👨‍💻 Yash Patel  
 
-🚀 Second-year Computer Engineering Student @ LD College of Engineering  
-💻 Currently learning **DSA** & **Full-Stack Development**  
-🎥 Member of Innovator Club (P&VE Team)  
-🌌 Passionate about coding, editing, and galaxies  
+🎓 Third-year Computer Engineering Student @ LDCE
+💻 Building with C++, JavaScript & the Web
+🧠 Focused on DSA, Problem Solving & Full-Stack Development
+🚀 Turning ideas into projects
+🎬 Developer • Editor • Curious Human
 
 ---
 
