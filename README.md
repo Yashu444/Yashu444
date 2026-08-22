@@ -34,7 +34,6 @@ This README is designed for a 3rd-year Computer Engineering student profile.
 🧠 Focused on DSA, problem solving & software fundamentals
 🌐 Building my way toward full-stack development
 🚀 Interested in hackathons, real-world projects & open source
-🎬 Part of the P&VE Team @ Innovator Club
 🎮 Gaming • Video Editing • Technology • Exploring new ideas
 🌌 Curious about coding, creativity and the universe
 ```
